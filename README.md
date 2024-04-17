@@ -1,4 +1,4 @@
-# OOP and FP Can't Be Friends, Yet
+# Active-Group-Tutorialtag 2024: Funktionale Programmierung vs. Domain-Driven-Design
 
 ## Java-Code
 
