@@ -1,0 +1,8 @@
+{
+    "haskell.manageHLS": "PATH",
+    "extensions.ignoreRecommendations": true,
+    "haskell.plugin.hlint.diagnosticsOn": false,
+    "cSpell.language": "en,de",
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "nixEnvSelector.nixFile": "${workspaceRoot}/shell.nix"
+}
