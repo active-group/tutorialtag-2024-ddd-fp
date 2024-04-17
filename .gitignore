@@ -1,0 +1,11 @@
+dist-newstyle/
+.direnv/
+.bloop/
+.bsp/
+.idea/
+.metals/
+compiled/
+target/
+*.aux
+*.log
+*.synctex.gz
